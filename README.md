@@ -3,6 +3,7 @@
 Project prepared for a subject [Machine Learning 1: classification methods](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=2400-DS1ML1) at my graduate studies.
 
 This is my first machine learning project, so in retrospect and experience gained, I see some things to improve in it.
+In a separate folder you can also find a regression model realized within the same subject.
 
 The main goal of the project was:
 
